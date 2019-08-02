@@ -364,12 +364,12 @@ void Renderer::initOpenGLRendering(){
 
     vector<std::string> faces
     {
-        "/home/evgeny/Desktop/ComputerGraphics/Data/Environments/skybox/right.jpg",
-        "/home/evgeny/Desktop/ComputerGraphics/Data/Environments/skybox/left.jpg",
-        "/home/evgeny/Desktop/ComputerGraphics/Data/Environments/skybox/top.jpg",
-        "/home/evgeny/Desktop/ComputerGraphics/Data/Environments/skybox/bottom.jpg",
-        "/home/evgeny/Desktop/ComputerGraphics/Data/Environments/skybox/front.jpg",
-        "/home/evgeny/Desktop/ComputerGraphics/Data/Environments/skybox/back.jpg"
+        "/home/evgeny17387/Desktop/ComputerGraphics/Data/Environments/skybox/right.jpg",
+        "/home/evgeny17387/Desktop/ComputerGraphics/Data/Environments/skybox/left.jpg",
+        "/home/evgeny17387/Desktop/ComputerGraphics/Data/Environments/skybox/top.jpg",
+        "/home/evgeny17387/Desktop/ComputerGraphics/Data/Environments/skybox/bottom.jpg",
+        "/home/evgeny17387/Desktop/ComputerGraphics/Data/Environments/skybox/front.jpg",
+        "/home/evgeny17387/Desktop/ComputerGraphics/Data/Environments/skybox/back.jpg"
     };
     unsigned int _cubemapTexture = loadCubemap(faces);
 
