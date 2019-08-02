@@ -21,3 +21,4 @@
 
 ## Scenes
 ![alt text](Photos/Scene_1.png "Title")
+![alt text](Photos/Scene_2.png "Title")
