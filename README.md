@@ -29,3 +29,5 @@
 ![alt text](Photos/Scene_4.png "Title")
 #### Fog
 ![alt text](Photos/Scene_5.png "Title")
+#### Explosion
+![alt text](Photos/Scene_6.png "Title")
