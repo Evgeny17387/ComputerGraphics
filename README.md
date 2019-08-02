@@ -27,3 +27,5 @@
 ![alt text](Photos/Scene_3.png "Title")
 #### Shadow
 ![alt text](Photos/Scene_4.png "Title")
+#### Fog
+![alt text](Photos/Scene_5.png "Title")
