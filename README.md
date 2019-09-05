@@ -10,7 +10,7 @@
 2. Uses OpenGL addional librararies such as: glfw, glad and glm
 3. Uses 3'th part libraries such as ImGui
 
-## Build & Run (Cmake files compatible for Linix only)
+## Build & Run (Cmake files compatible for Linux only)
 1. Clone repository</br>
 2. cd repository-dir</br>
 3. cmake -S . -B ./build</br>
